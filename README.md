@@ -2,16 +2,11 @@
 An awesome list of resources for people majoring in BME at SJTU
 
 
-# awesome-cs
-
-上海交通大学计算机系本科作业参考
-
-
 ## 项目介绍
 
-本项目旨在收集 GitHub 上海交通大学计算机系本科（编程）作业。
+本项目旨在收集 GitHub 上海交通大学生物医学工程专业本科学习资料和经验分享。
 
-如果您希望将自己的项目添加到列表中，请点击 [README.md 右上角的编辑按钮](https://github.com//awesome-cs/edit/master/README.md) 自动创建分支并编辑，而后通过 [Pull Request](https://github.com/SJTU-CSE/awesome-cs/pulls) 提交。
+如果您希望将自己的项目添加到列表中，请点击 [README.md 右上角的编辑按钮](https://github.com//awesome-bme/edit/master/README.md) 自动创建分支并编辑，而后通过 [Pull Request](https://github.com/SJTU-CSE/awesome-bme/pulls) 提交。
 
 您的项目应该以下面的格式添加到列表中：
 ```
@@ -23,7 +18,7 @@ An awesome list of resources for people majoring in BME at SJTU
 1. 学年、学期 (2019 Spring < 2019 Fall < 2020 Spring)
 2. 作者 ID (A < b < C)
 
-在发送 PR 后，我们的脚本会自动检查您的修改。感谢您的贡献。
+在发送 PR 后，我会检查您的修改，这需要一定时间。感谢您的贡献。
 
 ## 学术诚信
 
@@ -37,22 +32,32 @@ An awesome list of resources for people majoring in BME at SJTU
 
 ### 目录
 
-* [CS0501, CS0501H (原 CS149, CS158, CS358): 数据结构](#cs0501)
-* [CS1603 (原 CS125): 程序设计](#cs1603)
-* [CS1956 (原 MS125): 编程综合实践](#cs1956)
-* [CS2301 (原 CS308): 编译原理](#cs2301)
-* [CS2303 (原 CS356): 操作系统课程设计](#cs2303)
-* [CS2304 (原 CS499): 计算机科学中的数学基础](#cs2304)
-* [CS2305 (原 CS359): 计算机系统结构](#cs2305)
-* [CS2306 (原 CS145): 计算机系统结构实验](#cs2306)
-* [CS2307 (原 EI209): 计算机组成](#cs2307)
-* [CS2308 (原 CS214): 算法与复杂性](#cs2308)
-* [CS2309 (原 CS241): 问题求解与实践](#cs2309)
-* [CS2310 (原 CS2302, CS307): 现代操作系统](#cs2310)
-* [CS3301 (原 CS473): GPU计算及深度学习](#cs3301)
-* [CS3303 (原 SE353): 程序分析与验证](#cs3303)
-* [CS3304 (原 CS383): 程序设计语言](#cs3304)
-* [CS3310 (原 CS337): 计算机图形学](#cs3310)
+经验分享
+* [出国申请](#global-bme)
+
+大一上
+* [CS1501: 程序设计思想与方法（C++）](#cs1501)
+* [MATH1201: 高等数学I](#math1201)
+* [MATH1205: 线性代数](#math1205)
+* [PSY1201: 大学生心理健康](#psy1201)
+
+大一下
+* [EE0501: 电路理论](#ee0501)
+* [EST0501: 数字电子技术](#est2501)
+* [MATH1202: 高等数学II](#math1202)
+* [PHY1251: 大学物理(A类）（1）](#phy1251)
+
+大二上
+* [MATH1206: 数理方法](#math1206)
+* [CS0501: 数据结构](#cs0501)
+
+  大二下
+* [BME1203: 生物学导论](#bme1203)
+* [BME2201: 生物医学统计概论](#bme2201)
+* [BME2301: 生物医学信号与系统（1）](#bme2301)
+* [BME2302: 医学物理导论](#bme2302)
+* [BME2304: 模拟电子技术(与实验)](#bme2304)
+* [BME2401: 材料科学与工程基础](#bme2401)
 * [CS3311 (原 CS339): 计算机网络](#cs3311)
 * [CS3312 (原 IS308): 计算机系统安全](#cs3312)
 * [CS3313 (原 CS467): 计算理论](#cs3313)
@@ -69,6 +74,12 @@ An awesome list of resources for people majoring in BME at SJTU
 * [CS3610 (原 EE359): 数据挖掘技术](#cs3610)
 * [CS4302 (原 CS433): 并行与分布式计算](#cs4302)
 * [ICE3608 (原 EE447): 移动互联网](#ice3608)
+
+<a name="global-bme"></a>
+ * [@徐天玥, 2018 Fall](https://github.com/Neight99/SJTU_DataStructure_A)
+
+
+
 
 <a name="cs0501"></a>
 ### CS0501 + CS0501H (原 CS149 + CS158 + CS358) - 数据结构 + 数据结构 (荣誉) + 数据结构A
